@@ -1,4 +1,4 @@
-🤖Transformer-based Text Summarization(My own designed transformer)🤖
+🤖Transformer-based Text Summarization(My own Transformer)🤖
 -
 <p style="background-color:#f9f9f9;border-left:6px solid #ffcc00;padding:10px;">
 <b>Note⚠️:</b>This project is just <i>for my practice</i> for real-time use; it required high-level training 
